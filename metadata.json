@@ -1,0 +1,7 @@
+{
+  "name": "Gem - 3D AI Companion",
+  "description": "An interactive chat experience featuring a cute, animated 3D robot powered by Google Gemini that reacts to your conversations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
